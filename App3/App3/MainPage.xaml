@@ -30,7 +30,7 @@
                         Clicked="buttonGuardar_Clicked"
                         VerticalOptions="Center"
                         HorizontalOptions="Center"
-                    BackgroundColor="Red"/>
+                    BackgroundColor="Green"/>
         </StackLayout>
     </ScrollView>
 </ContentPage>

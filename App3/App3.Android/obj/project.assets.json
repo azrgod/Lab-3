@@ -1939,11 +1939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\source\\repos\\App3\\App3\\App3.Android\\App3.Android.csproj",
+      "projectUniqueName": "C:\\Users\\diego\\source\\repos\\App3 - copia\\App3\\App3.Android\\App3.Android.csproj",
       "projectName": "App3.Android",
-      "projectPath": "C:\\Users\\diego\\source\\repos\\App3\\App3\\App3.Android\\App3.Android.csproj",
+      "projectPath": "C:\\Users\\diego\\source\\repos\\App3 - copia\\App3\\App3.Android\\App3.Android.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\source\\repos\\App3\\App3\\App3.Android\\obj\\",
+      "outputPath": "C:\\Users\\diego\\source\\repos\\App3 - copia\\App3\\App3.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1964,8 +1964,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\diego\\source\\repos\\App3\\App3\\App3\\App3.csproj": {
-              "projectPath": "C:\\Users\\diego\\source\\repos\\App3\\App3\\App3\\App3.csproj"
+            "C:\\Users\\diego\\source\\repos\\App3 - copia\\App3\\App3\\App3.csproj": {
+              "projectPath": "C:\\Users\\diego\\source\\repos\\App3 - copia\\App3\\App3\\App3.csproj"
             }
           }
         }

@@ -987,11 +987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\source\\repos\\App3\\App3\\App3.iOS\\App3.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\diego\\source\\repos\\App3 - copia\\App3\\App3.iOS\\App3.iOS.csproj",
       "projectName": "App3.iOS",
-      "projectPath": "C:\\Users\\diego\\source\\repos\\App3\\App3\\App3.iOS\\App3.iOS.csproj",
+      "projectPath": "C:\\Users\\diego\\source\\repos\\App3 - copia\\App3\\App3.iOS\\App3.iOS.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\source\\repos\\App3\\App3\\App3.iOS\\obj\\",
+      "outputPath": "C:\\Users\\diego\\source\\repos\\App3 - copia\\App3\\App3.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1012,8 +1012,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\diego\\source\\repos\\App3\\App3\\App3\\App3.csproj": {
-              "projectPath": "C:\\Users\\diego\\source\\repos\\App3\\App3\\App3\\App3.csproj"
+            "C:\\Users\\diego\\source\\repos\\App3 - copia\\App3\\App3\\App3.csproj": {
+              "projectPath": "C:\\Users\\diego\\source\\repos\\App3 - copia\\App3\\App3\\App3.csproj"
             }
           }
         }
